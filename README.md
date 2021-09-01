@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jean Vitola-- Web Scraping project</h1>
-<h3 align="center">Industrial Engineer | Data science student Correlation One I Occupational Safety and Hygiene Analyst | Tec. In plant operation | Big Data Business |</h3>
+![image](https://user-images.githubusercontent.com/75003188/131734227-b9ba6cd2-d67b-4209-8ed2-3b775a5edf98.png)
 
 
 ******
