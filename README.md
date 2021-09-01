@@ -1,8 +1,5 @@
-# Web-Scraping-de-carros
-# <center>Analizar precios de acarros en www.cars.com e</center>
-
-****
-![image](https://user-images.githubusercontent.com/75003188/131733967-4e19b690-96ad-486b-9aef-1f754cc36a75.png)
+<h1 align="center">Hi 👋, I'm Jean Vitola-- Web Scraping project</h1>
+<h3 align="center">Industrial Engineer | Data science student Correlation One I Occupational Safety and Hygiene Analyst | Tec. In plant operation | Big Data Business |</h3>
 
 
 ******
