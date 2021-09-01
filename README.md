@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jean Vitola-- Web Scraping project</h1>
-![image](https://user-images.githubusercontent.com/75003188/131734227-b9ba6cd2-d67b-4209-8ed2-3b775a5edf98.png)
+![image](https://user-images.githubusercontent.com/75003188/131734278-dc6791e3-e55e-4168-9905-d42d2cce816b.png)
 
 
 ******
@@ -7,7 +7,6 @@
 > Jean Carlos Vitola Cabarcas
 
 > Es decir, que ven en él al animal irracional, al animal que ríe, al animal que llora, al animal infeliz. — Friedrich Nietzsche
-
 
 
 
